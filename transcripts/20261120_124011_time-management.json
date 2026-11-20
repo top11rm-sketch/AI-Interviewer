@@ -1,0 +1,65 @@
+{
+  "timestamp": "2026-11-20T12:40:11",
+  "topic": "Time management",
+  "interview_plan": {
+    "research_goal": "To explore how individuals navigate their daily schedules, identify core productivity challenges, and reflect on their evolving relationship with time management.",
+    "questions": [
+      "Walk me through a typical workday and how you usually decide what tasks to focus on first.",
+      "Can you describe a recent time when your schedule completely fell apart, and how you handled that situation?",
+      "What methods or routines have you found most effective for protecting your time, and what makes them work for you?",
+      "Looking ahead, how would you ideally like your relationship with time and productivity to change in the future?"
+    ]
+  },
+  "transcript": [
+    {
+      "turn": 1,
+      "question": "To kick things off, could you walk me through a typical workday and how you usually decide what tasks to focus on first?",
+      "answer": "Well I open my emails first thing in the morning, then I check my current tasks and start doing them by priority"
+    },
+    {
+      "turn": 2,
+      "question": "It sounds like starting with email and sorting tasks by priority is a reliable anchor for your day. \n\nCan you describe a recent time when your schedule completely fell apart, and how you handled that situation?",
+      "answer": "Well I had a day where everything was all over the place and I was surrounded by a lot of tasks, so I just started rearranging everything and kept a cool head"
+    },
+    {
+      "turn": 3,
+      "question": "It sounds like staying calm and rearranging your workload helped you regain control when things got chaotic. \n\nWhat methods or routines have you found most effective for protecting your time, and what makes them work for you?",
+      "answer": "I take a short break between each task, in order to give myself a \"refresh\" and be able to start from an objective point of view the new task"
+    },
+    {
+      "turn": 4,
+      "question": "Taking those short resets between tasks seems like a really helpful way to clear your head and start fresh. \n\nLooking ahead, how would you ideally like your relationship with time and productivity to change in the future?",
+      "answer": "I want to become even more organized and I want don't want to find myself in situations where everything is chaotic"
+    }
+  ],
+  "analysis": {
+    "executive_summary": "The participant manages their workday by checking emails first, prioritizing tasks, and staying calm when schedules become chaotic. They use short breaks between tasks to refresh their perspective and ultimately aim to become more organized in the future.",
+    "key_themes": [
+      "Task prioritization",
+      "Maintaining composure during chaos",
+      "Taking breaks for mental resets",
+      "Desire for improved organization"
+    ],
+    "notable_quotes": [
+      "I open my emails first thing in the morning, then I check my current tasks and start doing them by priority",
+      "I take a short break between each task, in order to give myself a \"refresh\" and be able to start from an objective point of view the new task",
+      "I want to become even more organized and I want don't want to find myself in situations where everything is chaotic"
+    ],
+    "sentiment_label": "Positive",
+    "sentiment_score": 0.6,
+    "emotion_tags": [
+      "pragmatic",
+      "calm",
+      "optimistic"
+    ],
+    "keywords": [
+      "emails",
+      "tasks",
+      "priority",
+      "schedule",
+      "break",
+      "productivity",
+      "organization"
+    ]
+  }
+}

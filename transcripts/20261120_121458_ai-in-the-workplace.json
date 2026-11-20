@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-11-20T12:14:58",
+  "topic": "AI in the workplace",
+  "interview_plan": {
+    "research_goal": "To explore how professionals integrate artificial intelligence into their daily workflows, the challenges and benefits they encounter, and their perspectives on its future impact.",
+    "questions": [
+      "Could you walk me through your typical workday and highlight any specific tools or technologies you routinely rely on?",
+      "How have you experimented with artificial intelligence tools in your recent projects, and what prompted you to use them?",
+      "Can you share a specific instance where using AI significantly changed the outcome of your work, whether positively or negatively?",
+      "Looking ahead over the next few years, how do you see the role of artificial intelligence evolving in your profession?"
+    ]
+  },
+  "transcript": [
+    {
+      "turn": 1,
+      "question": "Could you walk me through your typical workday and highlight any specific tools or technologies you routinely rely on?",
+      "answer": "I usually use gemini and claude"
+    },
+    {
+      "turn": 2,
+      "question": "It sounds like you're already incorporating conversational assistants quite a bit in your routine. \n\nHow have you experimented with artificial intelligence tools in your recent projects, and what prompted you to use them?",
+      "answer": "i needed their help"
+    },
+    {
+      "turn": 3,
+      "question": "That makes sense when you're up against a tight spot or a complex problem. \n\nCan you share a specific instance where using AI significantly changed the outcome of your work, whether positively or negatively?",
+      "answer": "i had a task and it helped me finish the job a lot faster"
+    },
+    {
+      "turn": 4,
+      "question": "Speeding up task completion can certainly be a game-changer when you have a lot on your plate. \n\nLooking ahead over the next few years, how do you see the role of artificial intelligence evolving in your profession?",
+      "answer": "i think it will be more used to reduce wasted time"
+    }
+  ],
+  "analysis": {
+    "executive_summary": "The participant relies on conversational assistants like Gemini and Claude to help them complete tasks more quickly. They view artificial intelligence as a practical tool to reduce wasted time and assist with workload demands.",
+    "key_themes": [
+      "Efficiency and speed",
+      "Problem-solving assistance",
+      "Future time reduction"
+    ],
+    "notable_quotes": [
+      "i usually use gemini and claude",
+      "i needed their help",
+      "it helped me finish the job a lot faster"
+    ],
+    "sentiment_label": "Positive",
+    "sentiment_score": 0.6,
+    "emotion_tags": [
+      "pragmatic",
+      "direct",
+      "appreciative"
+    ],
+    "keywords": [
+      "gemini",
+      "claude",
+      "artificial intelligence",
+      "tasks",
+      "job",
+      "time"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "timestamp": "2026-11-20T12:45:46",
+  "topic": "Remote Work",
+  "interview_plan": {
+    "research_goal": "To explore how remote workers manage their daily routines, navigate workplace challenges, and envision the future of their professional lives.",
+    "questions": [
+      "Could you walk me through what a typical workday looks like for you in your current remote setup?",
+      "What do you find are the most significant benefits and drawbacks of working remotely compared to a traditional office environment?",
+      "Can you share a specific moment or experience when working remotely felt particularly challenging or surprisingly rewarding?",
+      "Looking ahead, how do you see remote work evolving for you personally and for the broader workforce in the coming years?"
+    ]
+  },
+  "transcript": [
+    {
+      "turn": 1,
+      "question": "Could you walk me through what a typical workday looks like for you in your current remote setup?",
+      "answer": "I usually wake up, start my PC, log into the job platform, then check what has to be done"
+    },
+    {
+      "turn": 2,
+      "question": "It sounds like jumping straight into your digital workspace is a very efficient way to kick off the morning. \n\nWhat do you find are the most significant benefits and drawbacks of working remotely compared to a traditional office environment?",
+      "answer": "To be honest, I don't really like it a lot, I can't really connect with my colleagues and when I have a question, it usually is responded to very late by the end of the program"
+    },
+    {
+      "turn": 3,
+      "question": "It sounds like the lack of spontaneous connection and delayed communication with your colleagues can make the day feel quite isolating and frustrating at times. \n\nCan you share a specific moment or experience when working remotely felt particularly challenging or surprisingly rewarding?",
+      "answer": "Well I had some tasks that needed to be done in a day, in order to be sent to our client, and I had a problem which I couldn't fix by myself, and when I asked my team leader, repeatedly, he kept delaying giving me an answer until the end of the program, and I couldn't finish the task"
+    },
+    {
+      "turn": 4,
+      "question": "That sounds like an incredibly stressful and helpless position to be in when you were just trying to get your work done on a tight deadline. \n\nLooking ahead, how do you see remote work evolving for you personally and for the broader workforce in the coming years?",
+      "answer": "Well I might change jobs because this enviroment doesn't suit me at all"
+    }
+  ],
+  "analysis": {
+    "executive_summary": "The participant expresses a strong dislike for remote work, primarily due to feelings of isolation and severe communication delays from colleagues and leadership. These challenges have resulted in missed deadlines and led the participant to consider changing jobs.",
+    "key_themes": [
+      "Lack of connection with colleagues",
+      "Delayed communication and responsiveness",
+      "Negative impact of remote environment on productivity"
+    ],
+    "notable_quotes": [
+      "To be honest, I don't really like it a lot",
+      "I might change jobs because this enviroment doesn't suit me at all"
+    ],
+    "sentiment_label": "Negative",
+    "sentiment_score": -0.8,
+    "emotion_tags": [
+      "frustrated",
+      "isolated",
+      "dissatisfied"
+    ],
+    "keywords": [
+      "PC",
+      "job platform",
+      "colleagues",
+      "team leader",
+      "client",
+      "tasks"
+    ]
+  }
+}
